@@ -1,4 +1,4 @@
-# Welcome Abord! 👨‍💻
+# Welcome Aboard! 👨‍💻
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/tomerrz/" style="text-decoration:none !important">
