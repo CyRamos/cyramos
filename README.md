@@ -10,6 +10,43 @@
   </a>
 </div> 
 
+
+### :man_technologist: About Me:
+
+
+- 💻 I am a Security Analyst professional, currently employed as an Analyst at the second largest bank in Israel.
+- 📄 Authored dozens of technical and managerial reports throughout my various roles.
+- 👾 Prevented a ransomware attack on a client following a proactive investigation I conducted.
+- 📐 I strive to keep a broad set of skills, involving myself with Security, Networking, Research, and various technologies.
+- 🐧 FOSS - I contributor for open-source projects in my free time for various conveniences and ideas I have.
+
+
+```shell
+$ python -c "import skills; print(skills.list(tools, technologies))" # List Technical Skills 
+```
+```python
+[
+  ["sysinternals", "wireshark", "exiftools", "volatility", "autospy"],
+  ["endpoint_security", "network_security", "API", "incident_response",     
+    "malware_analysis", "memory_forensics"],
+  ["MITRE ATT&CK", "TTPs", "attack_vectors", "IoCs", "blue_team", "CTF", "SOC"],
+  ["python", "bash", "powershell", "KQL", "SPL", "XQL", "colab"],
+  ["research", "DFIR", "project_management", "automations", "forensics", "reporting"],
+  ["networking", "operation_systems", "windows_active_directory", "unix-linux"],
+]
+```
+
+```shell
+$ ls /etc/ssl/certs # List Professional Certifications 
+```
+```shell
+> SentinelOne_Partner_Tech_Accreditation_301_2022.cert 
+> Cyber_Defense_Practitioner_Israel_National_Cyber_Directorate_2019.cert 
+> Linux_Essentials_2019.cert 
+> CCNA_Instructing_Networking_for_Home_and_Small_Business_2014.cert
+```
+
+
 <h3> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <p align="left">
