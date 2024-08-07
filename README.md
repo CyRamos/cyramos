@@ -79,7 +79,7 @@ $ ls /etc/ssl/certs # List Professional Certifications
 
 ---
 
-<h3 align="center">GitHub Skils</h3>
+<h3 align="center">GitHub - Status</h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyramos&theme=onedark" alt="cyramos" /></a> </p>
