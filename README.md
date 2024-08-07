@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cyramos&label=Profile%20views&color=0e75b6&style=flat" alt="cyramos" /> </p>
+  
 # Welcome Aboard! 👨‍💻
 
 <div id="badges">
@@ -10,9 +12,7 @@
   </a>
 </div> 
 
-
 ### :man_technologist: About Me:
-
 
 - 💻 I am a Security Analyst professional, currently employed as an Analyst at the second largest bank in Israel.
 - 📄 Authored dozens of technical and managerial reports throughout my various roles.
@@ -77,3 +77,31 @@ $ ls /etc/ssl/certs # List Professional Certifications
 
 </p>
 
+---
+
+<h3 align="center">GitHub Skils</h3>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyramos&theme=onedark" alt="cyramos" /></a> </p>
+
+<!--
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@cyterous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cyterous" height="30" width="40" /></a>
+</p>
+-->
+
+<p align="center">
+  <img style="width: 50%; margin-right: 1%;" src="https://github-readme-streak-stats.herokuapp.com/?user=cyramos&theme=onedark" alt="cyramos" />  
+</p>
+
+
+<div style="position: relative; width: 100%; padding: 30px 0; overflow: hidden;">
+  <img align="left" style="float: left; width: 38%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyramos&theme=onedark&show_icons=true&locale=en&layout=compact" alt="cyramos" />
+  
+  <img align="right" style="float: right; width: 38%;" src="https://github-readme-stats.vercel.app/api?username=cyramos&theme=onedark&show_icons=true&locale=en" alt="cyramos" />
+</div>
