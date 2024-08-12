@@ -18,7 +18,7 @@
 - 📄 Authored dozens of technical and managerial reports throughout my various roles.
 - 👾 Prevented a ransomware attack on a client following a proactive investigation I conducted.
 - 📐 I strive to keep a broad set of skills, involving myself with Security, Networking, Research, and various technologies.
-- 🐧 FOSS - I contributor for open-source projects in my free time for various conveniences and ideas I have.
+- 🐧 FOSS - I contribute to open-source projects in my free time for various conveniences and ideas I have.
 
 
 ```shell
