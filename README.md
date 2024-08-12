@@ -58,6 +58,8 @@ $ ls /etc/ssl/certs # List Professional Certifications
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="github" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/mitre-attack/attack-website/master/attack-theme/static/favicon.ico" alt="Mitre-Attack" width="45" height="45"/>
+<img src="https://yt3.googleusercontent.com/ytc/AIdro_kiiHmvhDeeTNr9bUmVXWjYGR1NhWpfUqvjTzuLPhjlNQY=s900-c-k-c0x00ffffff-no-rj" alt="Cortex=XQL" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" alt="confluence" width="45" height="45"/>
@@ -74,6 +76,8 @@ $ ls /etc/ssl/certs # List Professional Certifications
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" alt="splunk" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="45" height="45"/>
+
+
 
 </p>
 
