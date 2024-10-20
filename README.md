@@ -76,6 +76,8 @@ $ ls /etc/ssl/certs # List Professional Certifications
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" alt="splunk" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="45" height="45"/>
+<img src="https://authenticator.2stable.com/assets/img/2fa-services/Icons/getgrav.org.svg" alt="GRAV" width="45" height="45"/>
+
 
 
 
